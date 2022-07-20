@@ -8,6 +8,8 @@ View my project on Github: https://necro17.github.io/Code-Refactor/
 
 When completing this project, the main challenge I came across was selecting the correct semantic elements. For the main section, I chose the section element over article. There is much information on documentation and guidelines online, I chose the section element for the main content following advice I received during instruction. I used the article element in the aside section just to try something different.
 
+Additionally, the .gitignore is completely unnecessary. I added it just because I wanted to, which I will admit is a silly reason.
+
 ## User Story
 
 
