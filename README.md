@@ -33,3 +33,4 @@ THEN I find a concise, descriptive title
 ```
 
 ## Mock Up
+![alt text](https://user-images.githubusercontent.com/97854086/179385227-b6bf3adc-16f6-4c74-bffd-2f19703e8d7e.png)
