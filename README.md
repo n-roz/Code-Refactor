@@ -6,14 +6,14 @@ View my project on Github: https://necro17.github.io/Code-Refactor/
 
 ## Challenges
 
-When completing this project, the main challenge I came across was selecting the correct semantic elements. For the main section, I chose the section element over article. There is much information on documentation and guidelines online, I chose the section element following advice I received during instruction.
+When completing this project, the main challenge I came across was selecting the correct semantic elements. For the main section, I chose the section element over article. There is much information on documentation and guidelines online, I chose the section element for the main content following advice I received during instruction. I used the article element in the aside section just to try something different.
 
 ## User Story
 
 
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
-SO THAT our site is optimized for search engines
+SO THAT our site is optimized for search engines.
 
 
 ## Acceptance Criteria
@@ -29,7 +29,7 @@ THEN I find accessible alt attributes
 WHEN I view the heading attributes
 THEN I find that they fall in sequential order
 WHEN I view the title element
-THEN I find a concise, descriptive title
+THEN I find a concise, descriptive title.
 
 
 ## Mock Up
